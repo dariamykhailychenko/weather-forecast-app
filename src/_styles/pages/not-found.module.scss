@@ -1,0 +1,31 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 2.7rem;
+  font-weight: 800;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  font-size: 1.7rem;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.description {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.link {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}

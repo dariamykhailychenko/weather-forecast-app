@@ -1,0 +1,6 @@
+export const COMMON = {
+  MIDDAY: 12,
+  DELAY: 300,
+  MIN_SEARCH_LENGTH: 3,
+  AUTO_CLOSE_TOAST: 200,
+}

@@ -1,0 +1,22 @@
+.weather {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: var(--text-secondary);
+}
+
+.day {
+  text-transform: uppercase;
+}
+
+.max {
+  font-size: 1.8rem;
+  color: var(--text-primary);
+}
+
+.min {
+  font-size: 1.3rem;
+}

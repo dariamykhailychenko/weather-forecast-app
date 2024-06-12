@@ -1,0 +1,9 @@
+.unit {
+  cursor: pointer;
+  transition: 0.3s ease;
+
+  &.active,
+  &:hover {
+    color: var(--text-primary);
+  }
+}
